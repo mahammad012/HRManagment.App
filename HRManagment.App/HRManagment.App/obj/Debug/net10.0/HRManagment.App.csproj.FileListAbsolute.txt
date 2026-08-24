@@ -2,3 +2,14 @@
 /Users/mahammad/Desktop/miniproject/HRManagment.App/HRManagment.App/obj/Debug/net10.0/HRManagment.App.AssemblyInfoInputs.cache
 /Users/mahammad/Desktop/miniproject/HRManagment.App/HRManagment.App/obj/Debug/net10.0/HRManagment.App.AssemblyInfo.cs
 /Users/mahammad/Desktop/miniproject/HRManagment.App/HRManagment.App/obj/Debug/net10.0/HRManagment.App.csproj.CoreCompileInputs.cache
+/Users/mahammad/Desktop/miniproject/HRManagment.App/HRManagment.App/obj/Debug/net10.0/HRManagment.App.sourcelink.json
+/Users/mahammad/Desktop/miniproject/HRManagment.App/HRManagment.App/bin/Debug/net10.0/HRManagment.App
+/Users/mahammad/Desktop/miniproject/HRManagment.App/HRManagment.App/bin/Debug/net10.0/HRManagment.App.deps.json
+/Users/mahammad/Desktop/miniproject/HRManagment.App/HRManagment.App/bin/Debug/net10.0/HRManagment.App.runtimeconfig.json
+/Users/mahammad/Desktop/miniproject/HRManagment.App/HRManagment.App/bin/Debug/net10.0/HRManagment.App.dll
+/Users/mahammad/Desktop/miniproject/HRManagment.App/HRManagment.App/bin/Debug/net10.0/HRManagment.App.pdb
+/Users/mahammad/Desktop/miniproject/HRManagment.App/HRManagment.App/obj/Debug/net10.0/HRManagment.App.dll
+/Users/mahammad/Desktop/miniproject/HRManagment.App/HRManagment.App/obj/Debug/net10.0/refint/HRManagment.App.dll
+/Users/mahammad/Desktop/miniproject/HRManagment.App/HRManagment.App/obj/Debug/net10.0/HRManagment.App.pdb
+/Users/mahammad/Desktop/miniproject/HRManagment.App/HRManagment.App/obj/Debug/net10.0/HRManagment.App.genruntimeconfig.cache
+/Users/mahammad/Desktop/miniproject/HRManagment.App/HRManagment.App/obj/Debug/net10.0/ref/HRManagment.App.dll
