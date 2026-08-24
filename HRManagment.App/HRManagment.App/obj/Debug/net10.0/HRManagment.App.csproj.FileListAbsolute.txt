@@ -1,0 +1,4 @@
+/Users/mahammad/Desktop/miniproject/HRManagment.App/HRManagment.App/obj/Debug/net10.0/HRManagment.App.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mahammad/Desktop/miniproject/HRManagment.App/HRManagment.App/obj/Debug/net10.0/HRManagment.App.AssemblyInfoInputs.cache
+/Users/mahammad/Desktop/miniproject/HRManagment.App/HRManagment.App/obj/Debug/net10.0/HRManagment.App.AssemblyInfo.cs
+/Users/mahammad/Desktop/miniproject/HRManagment.App/HRManagment.App/obj/Debug/net10.0/HRManagment.App.csproj.CoreCompileInputs.cache
