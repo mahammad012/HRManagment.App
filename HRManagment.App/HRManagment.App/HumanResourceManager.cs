@@ -6,19 +6,14 @@ public class HumanResourceManager : IHumanResourceManager
 
     public Department[] Departments => _departments;
 
-    public void AddDepartment(
-        string name,
-        int workerLimit,
-        decimal salaryLimit)
+    public void AddDepartment(string name, int workerLimit, decimal salaryLimit)
     {
         Department department = new Department(
             name,
             workerLimit,
             salaryLimit);
 
-        Array.Resize(
-            ref _departments,
-            _departments.Length + 1);
+        Array.Resize(ref _departments, _departments.Length + 1);
 
         _departments[^1] = department;
     }
@@ -42,27 +37,17 @@ public class HumanResourceManager : IHumanResourceManager
         }
     }
 
-    public void AddEmployee(
-        string fullname,
-        string position,
-        decimal salary,
-        string departmentName)
+    public void AddEmployee(string fullname, string position, decimal salary, string departmentName)
     {
         foreach (Department department in _departments)
         {
             if (department.Name == departmentName)
             {
-                Employee employee = new Employee(
-                    fullname,
-                    position,
-                    salary,
-                    departmentName);
+                Employee employee = new Employee(fullname, position, salary, departmentName);
 
                 Employee[] employees = department.Employees;
 
-                Array.Resize(
-                    ref employees,
-                    employees.Length + 1);
+                Array.Resize(ref employees, employees.Length + 1);
 
                 employees[^1] = employee;
 
@@ -73,9 +58,7 @@ public class HumanResourceManager : IHumanResourceManager
         }
     }
 
-    public void RemoveEmployee(
-        string employeeNo,
-        string departmentName)
+    public void RemoveEmployee(string employeeNo, string departmentName)
     {
         foreach (Department department in _departments)
         {
@@ -93,9 +76,7 @@ public class HumanResourceManager : IHumanResourceManager
 
                         Employee[] employees = department.Employees;
 
-                        Array.Resize(
-                            ref employees,
-                            employees.Length - 1);
+                        Array.Resize(ref employees, employees.Length - 1);
 
                         department.Employees = employees;
 
